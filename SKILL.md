@@ -7,8 +7,6 @@ model: haiku
 
 # Product Analyst Skill
 
-Adapted from the conceptual structure of the Product Analytics Framework and extended with practical data-analysis capabilities for product decision-making.
-
 ## Purpose
 
 Use this skill to turn product data into validated, decision-ready insights that improve activation, engagement, retention, monetization, and product strategy.
